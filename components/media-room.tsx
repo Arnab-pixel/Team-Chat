@@ -1,5 +1,10 @@
 "use client";
-import { LiveKitRoom, VideoConference } from "@livekit/components-react";
+
+import {
+  AudioConference,
+  LiveKitRoom,
+  VideoConference,
+} from "@livekit/components-react";
 import "@livekit/components-styles";
 import { Channel } from "@prisma/client";
 import { useUser } from "@clerk/nextjs";
