@@ -39,8 +39,6 @@ Clerk.
 
 👉 **New Meeting**: Quickly start a new meeting.
 
-👉 **Meeting Controls**: Participants have full control over meeting aspects, including recording, muting/unmuting, sound adjustments, participant list view.
-
 👉 **Exit call**: Participants can leave a call.
 
 👉 **Personal Room**: Users have a personal room with a unique meeting link for instant meetings, shareable with others.
