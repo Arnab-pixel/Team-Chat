@@ -1,10 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    images:{
-        domains:[
-            "utfs.io"
-        ]
-    }
+  basePath: "/Team-Chat",
+  output: "export",
+  images: {
+    domains: ["utfs.io"],
+  },
 };
 
 export default nextConfig;
